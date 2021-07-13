@@ -1,0 +1,78 @@
+/* body{
+    background-image:url("https://wallpapercave.com/wp/WSjKlp7.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;   
+} */
+
+
+.nav-contents a{
+    color:#fff;
+    margin-left:1rem;
+}
+
+.nav-contents{
+    padding-top: 1rem;
+}
+
+.nav-back1{
+    background-color:#656565;
+}
+
+@media screen and (max-width:980px){
+    .nav-contents a{
+        margin-left: 0;
+        padding-top: 1rem;
+    }
+}
+
+
+
+h6{
+    color:#fff;
+    margin-top:2rem;
+}
+.sbutton{
+    color:#fff;
+    border-color:#fff;
+}
+
+input{
+    box-sizing: border-box;
+    padding:0.5rem 3rem;
+    border: 2px solid #000;
+    font-size: 1rem;
+    color:#000;
+    background-color: #fff;
+    font-weight: 500;
+}
+
+
+.middle-content{
+    background-image:url("https://wallpapercave.com/wp/WSjKlp7.jpg");
+    background-position:center;
+    background-size: cover;
+  background-attachment: fixed;
+    
+    background-repeat: no-repeat;  
+    text-align: center;
+    padding: 15rem 0;
+
+}
+
+
+
+
+#footer{
+    background-color: #656565;
+    color: #fff;
+   text-align:center;
+   padding-top:1rem;
+}
+
+
+@media screen and (max-width:440px)
+{
+    .sbutton{
+        margin:1rem;
+    }
+}
